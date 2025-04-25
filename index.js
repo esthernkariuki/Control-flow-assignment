@@ -1,3 +1,4 @@
+//Write a program that takes an array of days like "Mon", "Tue", and "Fri" and uses a switch statement to print what type of delivery is scheduled on each day.
 
 const days=["Mon","Tue","Fri","Sat"];
 const getDays=(days)=>{
