@@ -71,7 +71,7 @@ const countdown=(lives)=>{
 countdown(5);
 
 //Using a do...while loop, write a program that loops through an array of user feedback and prints each comment until the array is empty.
-const userFeedback = ["Great service!", "Very satisfied", "Will recommend", "Not happy with the product"];
+const userFeedback = ["Great service!", " satisfied", "Will recommend", "Not happy with the product"];
 const printFeedback=(userFeedback)=>{
     let i = 0;
     do {
